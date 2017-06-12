@@ -13,8 +13,29 @@ import com.yuangumedicine.view.MyImageView;
 import java.util.ArrayList;
 
 /**
- * Created by starwrap on 2017-06-01.
- */
+ *
+ *
+ //  ┏┓　　　┏┓
+ //┏┛┻━━━┛┻┓
+ //┃　　　　　　　┃
+ //┃　　　━　　　┃
+ //┃　┳┛　┗┳　┃
+ //┃　　　　　　　┃
+ //┃　　　┻　　　┃
+ //┃　　　　　　　┃
+ //┗━┓　　　┏━┛
+  //   ┃　　　┃   神兽保佑
+  //   ┃　　　┃   阿弥陀佛
+  //   ┃　　　┗━━━┓
+  //   ┃　　　　　　　┣┓
+  //   ┃　　　　　　　┏┛
+  //   ┗┓┓┏━┳┓┏┛
+  //     ┃┫┫　┃┫┫
+  //     ┗┻┛　┗┻┛
+  //
+  */
+
+
 
 public class MyarticleAdapter  extends BaseAdapter {
     private LayoutInflater inflater;

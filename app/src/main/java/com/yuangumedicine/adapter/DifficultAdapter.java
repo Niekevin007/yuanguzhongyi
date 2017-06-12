@@ -13,12 +13,33 @@ import com.yuangumedicine.ui.frament.DifficultFrament;
 import java.util.ArrayList;
 
 /**
-    /**
-     * 
-     * 
-     */
- * Created by starwrap on 2017-05-31.
+ * @作者 RedWolf
+ * @时间 2017/6/12 17:35
+ * @简介 DifficultAdapter.java
  */
+/**
+ *
+ *
+ //  ┏┓　　　┏┓
+ //┏┛┻━━━┛┻┓
+ //┃　　　　　　　┃
+ //┃　　　━　　　┃
+ //┃　┳┛　┗┳　┃
+ //┃　　　　　　　┃
+ //┃　　　┻　　　┃
+ //┃　　　　　　　┃
+ //┗━┓　　　┏━┛
+  //   ┃　　　┃   神兽保佑
+  //   ┃　　　┃   阿弥陀佛
+  //   ┃　　　┗━━━┓
+  //   ┃　　　　　　　┣┓
+  //   ┃　　　　　　　┏┛
+  //   ┗┓┓┏━┳┓┏┛
+  //     ┃┫┫　┃┫┫
+  //     ┗┻┛　┗┻┛
+  //
+  */
+
 
 public class DifficultAdapter extends BaseAdapter {
     private LayoutInflater inflater;

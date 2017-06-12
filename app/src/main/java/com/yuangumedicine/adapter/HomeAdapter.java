@@ -3,10 +3,31 @@ package com.yuangumedicine.adapter;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.List;
+/**
+ *
+ *
+ //  ┏┓　　　┏┓
+ //┏┛┻━━━┛┻┓
+ //┃　　　　　　　┃
+ //┃　　　━　　　┃
+ //┃　┳┛　┗┳　┃
+ //┃　　　　　　　┃
+ //┃　　　┻　　　┃
+ //┃　　　　　　　┃
+ //┗━┓　　　┏━┛
+  //   ┃　　　┃   神兽保佑
+  //   ┃　　　┃   阿弥陀佛
+  //   ┃　　　┗━━━┓
+  //   ┃　　　　　　　┣┓
+  //   ┃　　　　　　　┏┛
+  //   ┗┓┓┏━┳┓┏┛
+  //     ┃┫┫　┃┫┫
+  //     ┗┻┛　┗┻┛
+  //
+  */
 
 public class HomeAdapter extends FragmentPagerAdapter {
  

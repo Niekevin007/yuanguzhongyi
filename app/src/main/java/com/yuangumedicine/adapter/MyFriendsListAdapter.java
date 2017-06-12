@@ -12,10 +12,29 @@ import com.yuangumedicine.cn.R;
 import com.yuangumedicine.view.MyImageView;
 
 import java.util.ArrayList;
-
 /**
- * Created by starwrap on 2017-06-05.
- */
+ *
+ *
+ //  ┏┓　　　┏┓
+ //┏┛┻━━━┛┻┓
+ //┃　　　　　　　┃
+ //┃　　　━　　　┃
+ //┃　┳┛　┗┳　┃
+ //┃　　　　　　　┃
+ //┃　　　┻　　　┃
+ //┃　　　　　　　┃
+ //┗━┓　　　┏━┛
+  //   ┃　　　┃   神兽保佑
+  //   ┃　　　┃   阿弥陀佛
+  //   ┃　　　┗━━━┓
+  //   ┃　　　　　　　┣┓
+  //   ┃　　　　　　　┏┛
+  //   ┗┓┓┏━┳┓┏┛
+  //     ┃┫┫　┃┫┫
+  //     ┗┻┛　┗┻┛
+  //
+  */
+
 
 public class MyFriendsListAdapter  extends BaseAdapter {
     private LayoutInflater inflater;

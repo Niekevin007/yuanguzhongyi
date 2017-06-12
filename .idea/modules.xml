@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../yuanguzhongyi_fork/app/app.iml" filepath="$PROJECT_DIR$/../yuanguzhongyi_fork/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../yuanguzhongyi_fork/uikits/uikits.iml" filepath="$PROJECT_DIR$/../yuanguzhongyi_fork/uikits/uikits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../yuanguzhongyi_fork/yuangumedicine2.iml" filepath="$PROJECT_DIR$/../yuanguzhongyi_fork/yuangumedicine2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuanguzhongyi_fork.iml" filepath="$PROJECT_DIR$/.idea/modules/yuanguzhongyi_fork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuanguzhongyi_new.iml" filepath="$PROJECT_DIR$/.idea/modules/yuanguzhongyi_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanguzhongyi_new.iml" filepath="$PROJECT_DIR$/yuanguzhongyi_new.iml" />
       <module fileurl="file://$PROJECT_DIR$/../yuanguzhongyi_fork/zhongyidemo.iml" filepath="$PROJECT_DIR$/../yuanguzhongyi_fork/zhongyidemo.iml" />
     </modules>
   </component>
