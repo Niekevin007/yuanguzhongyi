@@ -1,4 +1,4 @@
-package com.yuangumedicine.adapter;
+﻿package com.yuangumedicine.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -13,6 +13,10 @@ import com.yuangumedicine.ui.frament.DifficultFrament;
 import java.util.ArrayList;
 
 /**
+    /**
+     * 
+     * 
+     */
  * Created by starwrap on 2017-05-31.
  */
 
@@ -24,7 +28,10 @@ public class DifficultAdapter extends BaseAdapter {
         inflater = LayoutInflater.from(context);
         this.list = list;
     }
-
+    /**
+     * 
+     * 
+     */
     @Override
     public int getCount() {
         return list.size();
@@ -65,7 +72,10 @@ public class DifficultAdapter extends BaseAdapter {
 
         return view;
     }
-
+    /**
+     * 
+     * 
+     */
     public class ViewHolder {
 
         TextView username, title, centent, date;
